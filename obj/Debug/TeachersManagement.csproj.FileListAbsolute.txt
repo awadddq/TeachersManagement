@@ -1,0 +1,7 @@
+D:\Fiver\almkhrfich\TeachersManagement\bin\Debug\TeachersManagement.exe.config
+D:\Fiver\almkhrfich\TeachersManagement\bin\Debug\TeachersManagement.exe
+D:\Fiver\almkhrfich\TeachersManagement\bin\Debug\TeachersManagement.pdb
+D:\Fiver\almkhrfich\TeachersManagement\obj\Debug\TeachersManagement.csprojAssemblyReference.cache
+D:\Fiver\almkhrfich\TeachersManagement\obj\Debug\TeachersManagement.csproj.CoreCompileInputs.cache
+D:\Fiver\almkhrfich\TeachersManagement\obj\Debug\TeachersManagement.exe
+D:\Fiver\almkhrfich\TeachersManagement\obj\Debug\TeachersManagement.pdb
